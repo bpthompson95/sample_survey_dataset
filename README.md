@@ -1,2 +1,3 @@
-# sample_survey_dataset
-Script and documentation used to produce a 'fake' sample survey dataset. This can be used as a test case for survey analysis functions or other uses where a real survey dataset is not desirable. Includes questionnaire and some fictitious narrative.
+# Sample Survey Dataset
+This repository is for a script used to generate some 'fake' survey data, and also a 'fake' survey dataset that I created to be used in cases where a real survey dataset is not desirable.
+
