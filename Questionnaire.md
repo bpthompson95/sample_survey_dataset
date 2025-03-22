@@ -88,7 +88,7 @@
 | Pre-code | 1st Problem (Q6_Prob1) | 2nd Problem (Q6_Prob2) | 3rd Problem (Q6_Prob3) |
 | ---- | ----------- | ----------- | ----------- |
 | Unemployment | 1 | 1 | 1 |
-| Access to capital/high interest rates | 2 | 2 | 2 |
+| High prices/inflation | 2 | 2 | 2 |
 | Poverty | 3 | 3 | 3 |
 | Economy (general) | 4 | 4 | 4 |
 | Crime/public safety | 5 | 5 | 5 |
