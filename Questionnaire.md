@@ -14,13 +14,13 @@
 
 **Age** - What is your age? (numeric)
 
-**Age_Bracket** - Recoded into age brackets:
-    1. 18-24
-    2. 25-34
-    3. 35-44
-    4. 45-54
-    6. 55-64
-    7. 65+
+**Age_Brackets** - Recoded into age brackets:
+  1. 18-24
+  2. 25-34
+  3. 35-44
+  4. 45-54
+  6. 55-64
+  7. 65+
 
 **Education** - What is the highest level of education that you have completed?
   1. Primary or less
