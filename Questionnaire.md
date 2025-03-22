@@ -146,12 +146,12 @@
 **Q11_Parties** - I will now read you a list of some of the main political parties in our country. For each, please tell me whether you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable view of the party. If you have never heard of a party, please tell me.
 | Q11 Parties | Very favorable | Somewhat favorable | Somewhat unfavorable | Very unfavorable | Have not heard | DK | REF |
 | ----------- | -------------- | ------------------ | -------------------- | ---------------- | -------------- | -- | --- |
-| Liberal Party (Q11_Liberal) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Conserative Party (Q11_Conservative) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Libertarian Party (Q11_Libertarian) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Communist Party (Q11_Communist) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Hail Cthulu Party (Q11_Cthulu) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Agrarian Party (Q11_Agrarian) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Liberal Party (Q11_Liberal) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
+| Conserative Party (Q11_Conservative) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
+| Libertarian Party (Q11_Libertarian) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
+| Communist Party (Q11_Communist) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
+| Hail Cthulu Party (Q11_Cthulu) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
+| Agrarian Party (Q11_Agrarian) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 
 ## Upcoming Elections
 
