@@ -8,6 +8,10 @@
   4. East
   5. West
 
+**Urbanicity** - Record urban/rural
+  1. Urban
+  2. Rural
+
 **Sex** - Record respondent sex:
   1. Male
   2. Female
