@@ -13,7 +13,8 @@
   2. Female
 
 **Age** - What is your age? (numeric)
-  **Age_Bracket** - Recoded into age brackets:
+
+**Age_Bracket** - Recoded into age brackets:
     1. 18-24
     2. 25-34
     3. 35-44
