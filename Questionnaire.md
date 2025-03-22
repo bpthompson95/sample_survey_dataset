@@ -82,29 +82,29 @@
   98. DK
   99. REF
 
-**Q6_Prob** - What is the most important problem facing the country today? And what is the second most important problem? And what is the third most important problem?
+**Q6_Prob** - What is the most important problem facing the country today? And what is the second most important problem?
   (SPONTANEOUS RESPONSE; Do not read response options - code to fit)
 
-| Pre-code | 1st Problem (Q6_Prob1) | 2nd Problem (Q6_Prob2) | 3rd Problem (Q6_Prob3) |
-| ---- | ----------- | ----------- | ----------- |
-| Unemployment | 1 | 1 | 1 |
-| High prices/inflation | 2 | 2 | 2 |
-| Poverty | 3 | 3 | 3 |
-| Economy (general) | 4 | 4 | 4 |
-| Crime/public safety | 5 | 5 | 5 |
-| Illicit drugs | 6 | 6 | 6 |
-| Corruption/bribery | 7 | 7 | 7 |
-| Housing affordability/availability | 8 | 8 | 8 |
-| Electricity | 9 | 9 | 9 |
-| Water | 10 | 10 | 10 |
-| Roads/transportation infrastructure | 11 | 11 | 11 |
-| Education | 12 | 12 | 12 |
-| Healthcare | 13 | 13 | 13 |
-| Malnutrition | 14 | 14 | 14 |
-| OTHER | 15 | 15 | 15 |
-| No problem | 96 | 96 | 96 |
-| DK | 98 | 98 | 98 |
-| REF | 99 | 99 | 99 |
+| Pre-code | 1st Problem (Q6_Prob1) | 2nd Problem (Q6_Prob2) |
+| ---- | ----------- | ----------- |
+| Unemployment | 1 | 1 |
+| High prices/inflation | 2 | 2 |
+| Poverty | 3 | 3 |
+| Economy (general) | 4 | 4 |
+| Crime/public safety | 5 | 5 |
+| Illicit drugs | 6 | 6 |
+| Corruption/bribery | 7 | 7 |
+| Housing affordability/availability | 8 | 8 |
+| Electricity | 9 | 9 |
+| Water | 10 | 10 |
+| Roads/transportation infrastructure | 11 | 11 |
+| Education | 12 | 12 |
+| Healthcare | 13 | 13 |
+| Malnutrition | 14 | 14 |
+| OTHER | 15 | 15 |
+| No problem | 96 | 96 |
+| DK | 98 | 98 |
+| REF | 99 | 99 |
 
 **Q7_Issues** - Thinking now about some of the issues that the country is facing, how would you rate the status of these? For each issue area that I read, please tell me if you think that this issue is a major problem, a minor problem, or not a problem at all.
 | Q7 Issue | Major problem | Minor problem | Not a problem at all | DK | REF |
