@@ -102,6 +102,19 @@
 | DK | 98 | 98 | 98 |
 | REF | 99 | 99 | 99 |
 
+**Q7_Issues** - Thinking now about some of the issues that the country is facing, how would you rate the status of these? For each issue area that I read, please tell me if you think that this issue is a major problem, a minor problem, or not a problem at all.
+| Q7 Issue | Major problem | Minor problem | Not a problem at all | DK | REF |
+| ---------- | ------------- | ------------- | -------------------- | -- | --- |
+| The national debt (Q7_Debt) | 1 | 2 | 3 | 98 | 99 |
+| The economy (Q7_Economy) | 1 | 2 | 3 | 98 | 99 |
+| The cost of housing (Q7_Housing) | 1 | 2 | 3 | 98 | 99 |
+| The security of the Southern border (Q7_Border) | 1 | 2 | 3 | 98 | 99 |
+| Climate change (Q7_Climate) | 1 | 2 | 3 | 98 | 99 |
+| The skooma epidemic (Q7_Skooma) | 1 | 2 | 3 | 98 | 99 |
+| The cost of university education (Q7_University) | 1 | 2 | 3 | 98 | 99 |
+
+
+
  
 
 
