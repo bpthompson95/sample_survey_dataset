@@ -104,7 +104,7 @@
 
 **Q7_Issues** - Thinking now about some of the issues that the country is facing, how would you rate the status of these? For each issue area that I read, please tell me if you think that this issue is a major problem, a minor problem, or not a problem at all.
 | Q7 Issue | Major problem | Minor problem | Not a problem at all | DK | REF |
-| ---------- | ------------- | ------------- | -------------------- | -- | --- |
+| -------- | ------------- | ------------- | -------------------- | -- | --- |
 | The national debt (Q7_Debt) | 1 | 2 | 3 | 98 | 99 |
 | The economy (Q7_Economy) | 1 | 2 | 3 | 98 | 99 |
 | The cost of housing (Q7_Housing) | 1 | 2 | 3 | 98 | 99 |
@@ -113,9 +113,18 @@
 | The skooma epidemic (Q7_Skooma) | 1 | 2 | 3 | 98 | 99 |
 | The cost of university education (Q7_University) | 1 | 2 | 3 | 98 | 99 |
 
+## Institutional Ratings
 
-
- 
-
+**Q8_Institutions** - Moving on, I would now like to ask you about some of the different government and non-government institutions in our country. For each, please tell me how much trust you have in them to do the right thing when it comes to benefitting the people of our country.
+| Q8 Institution | Trust a great deal | Somewhat trust | Somewhat distrust | Do not trust at all | DK | REF |
+| -------------- | ------------------ | -------------- | ----------------- | ------------------- | -- | --- |
+| The Army (Q8_Army) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The Police (Q8_Police) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Universities (Q8_Universities) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Healthcare professionals (Q8_Doctors) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Your regional Governor's office (Q8_Governor) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Your local council (Q8_Council) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The National Congress (Q8_Congress) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The President (Q8_President) | 1 | 2 | 3 | 4 | 98 | 99 |
 
 
