@@ -128,7 +128,7 @@
 | Healthcare professionals (Q8_Doctors) | 1 | 2 | 3 | 4 | 98 | 99 |
 | Your regional government (Q8_RegGovt) | 1 | 2 | 3 | 4 | 98 | 99 |
 | Your local council (Q8_Council) | 1 | 2 | 3 | 4 | 98 | 99 |
-| The National Congress (Q8_Congress) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The Parliament (Q8_Parliament) | 1 | 2 | 3 | 4 | 98 | 99 |
 | The President (Q8_President) | 1 | 2 | 3 | 4 | 98 | 99 |
 
 **Q9_PresApproval** - Thinking now about the performance of the President, would you say that you strongly approve, somewhat approve, somewhat disapprove, or strongly disapprove of his job in office?
@@ -157,6 +157,44 @@
 | Hail Cthulu Party (Q11_Cthulu) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 | Agrarian Party (Q11_Agrarian) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 
-## Upcoming Elections
+## Elections
+
+**Q12_LikelyVoters** - As you may know, parliamentary elections are scheduled to take place on Wednesday, November 5th, 2025. How likely is it that you will vote in this election? Will you definitely vote, probably vote, probably not vote, or definitely not vote?
+  1. Will definitely vote
+  2. Will probably vote
+  3. Will probably not vote
+  4. Definitely not vote
+  98. DK
+  99. REF
+
+**Q13_ParliamentaryVote_1st** (IF Q12 <= 3) - If the parliamentary election was held this Sunday, for which party would you vote for?
+  (SPONTANEOUS RESPONSE; Do not read response options - code to fit)
+  1. Liberal Party
+  2. Conservative Party
+  3. Libertarian Party
+  4. Communist Party
+  5. Hail Cthulu Party
+  6. Agrarian Party
+  95. SPOILED BALLOT
+  96. OTHER political party
+  97. NONE/WILL NOT VOTE
+  98. DK
+  99. REF
+
+**Q14_ParliamentaryVote_2nd** (IF Q13 < 95 or ==96) - And, if your first choice was not on the ballot for this Sunday, which other party would you vote for?
+  (SPONTANEOUS RESPONSE; Do not read response options - code to fit)
+  1. Liberal Party
+  2. Conservative Party
+  3. Libertarian Party
+  4. Communist Party
+  5. Hail Cthulu Party
+  6. Agrarian Party
+  95. SPOILED BALLOT
+  96. OTHER political party
+  97. NONE/WILL NOT VOTE
+  98. DK
+  99. REF
+
+
 
   
