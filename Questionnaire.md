@@ -122,9 +122,37 @@
 | The Police (Q8_Police) | 1 | 2 | 3 | 4 | 98 | 99 |
 | Universities (Q8_Universities) | 1 | 2 | 3 | 4 | 98 | 99 |
 | Healthcare professionals (Q8_Doctors) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Your regional Governor's office (Q8_Governor) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Your regional government (Q8_RegGovt) | 1 | 2 | 3 | 4 | 98 | 99 |
 | Your local council (Q8_Council) | 1 | 2 | 3 | 4 | 98 | 99 |
 | The National Congress (Q8_Congress) | 1 | 2 | 3 | 4 | 98 | 99 |
 | The President (Q8_President) | 1 | 2 | 3 | 4 | 98 | 99 |
 
+**Q9_PresApproval** - Thinking now about the performance of the President, would you say that you strongly approve, somewhat approve, somewhat disapprove, or strongly disapprove of his job in office?
+  1. Strongly approve
+  2. Somewhat approve
+  3. Somewhat disapprove
+  4. Strongly disapprove
+  5. DK
+  6. REF
 
+**Q10_GovnrApproval** - And thinking about the performance of your regional Governor, would you say that you strongly approve, somewhat approve, somewhat disapprove, or strongly disapprove of their job in office?
+  1. Strongly approve
+  2. Somewhat approve
+  3. Somewhat disapprove
+  4. Strongly disapprove
+  5. DK
+  6. REF
+
+**Q11_Parties** - I will now read you a list of some of the main political parties in our country. For each, please tell me whether you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable view of the party. If you have never heard of a party, please tell me.
+| Q11 Parties | Very favorable | Somewhat favorable | Somewhat unfavorable | Very unfavorable | Have not heard | DK | REF |
+| ----------- | -------------- | ------------------ | -------------------- | ---------------- | -------------- | -- | --- |
+| Liberal Party (Q11_Liberal) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Conserative Party (Q11_Conservative) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Libertarian Party (Q11_Libertarian) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Communist Party (Q11_Communist) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Hail Cthulu Party (Q11_Cthulu) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Agrarian Party (Q11_Agrarian) | 1 | 2 | 3 | 4 | 98 | 99 |
+
+## Upcoming Elections
+
+  
