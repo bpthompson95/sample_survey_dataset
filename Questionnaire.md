@@ -1,6 +1,6 @@
 # Questionnaire for Sample Survey
 
-## Demographics:
+## Demographics - Pt 1:
 **Strata** - Record regional stratum:
   1. Capital
   2. North
@@ -25,20 +25,6 @@
   4. 45-54
   6. 55-64
   7. 65+
-
-**Education** - What is the highest level of education that you have completed?
-  1. Primary or less
-  2. Secondary
-  3. Vocational/technical
-  4. University or higher
-
-**Marital_Status** - What is your marital status?
-  1. Single/Never married
-  2. Married
-  3. Divorced/Separated
-  4. Widowed
-  98. DK
-  99. REF
 
 ## General Outlook:
 **Q1_Direction** - In general, would you say that the country is headed in the right direction or the wrong direction?
@@ -195,6 +181,84 @@
   98. DK
   99. REF
 
+## Regional Issues
+**Q15_Services** - Moving on, I would now like to ask you about the quality of various services, utilities, and infrastructure in YOUR REGION. For each, please tell me if you would rate the services as very good, somewhat good, somewhat bad, or very bad.
+| Q15 Service | Very good | Somewhat good | Somewhat bad | Very bad | DK | REF |
+| ----------- | --------- | ------------- | ------------ | -------- | -- | --- |
+| Roads and highways (Q15_Roads) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Public transportation (Q15_Transit) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Electricity (Q15_Electricity) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Drinking water (Q15_Water ) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Police (Q15_Police) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Schools (Q15_Schools) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Trash collection and recycling (Q15_Trash) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Internet service providers (Q15_Internet) | 1 | 2 | 3 | 4 | 98 | 99 |
+
+**Q16_Comp** - Compared to the other regions in our country, would you say that the overall quality of life in your region is much better, somewhat better, somewhat worse, or much worse than other regions?
+  1. Much better
+  2. Somewhat better
+  3. Somewhat worse
+  4. Much worse
+  98. DK
+  99. REF
+
+## Media Use
+**Q17_NewsInterest** - How interested are you in political news and information? Would you say that you are very interested, somewhat interested, somewhat not interested, or not interested at all?
+ 1. Very interested
+ 2. Somewhat interested
+ 3. Somewhat not interested
+ 4. Not interested at all
+
+**Q18_NewsPlatform** - And, when you do follow the news, from what kind of platform are you most likely to get it from?
+  1. Television
+  2. Internet or websites
+  3. Social media
+  4. Newspapers or magazines
+  5. Friends, family, or other people
+  96. OTHER
+  98. DK
+  99. REF
+
+## Demographics - Pt 2:
+(Enumerator: I now just have some final demographic questions for you. First...)
+
+**Education** - What is the highest level of education that you have completed?
+  1. Primary or less
+  2. Secondary
+  3. Vocational/technical
+  4. University or higher
+
+**Marital_Status** - What is your marital status?
+  1. Single/Never married
+  2. Married
+  3. Divorced/Separated
+  4. Widowed
+  98. DK
+  99. REF
+
+**Occupational_Status** - What is your occupational status?
+  1. Employed in a paid job, full-time
+  2. Employed in a paid job, part time
+  3. Self-employed, full-time
+  4. Self-employed, part-time
+  5. Homemaker
+  6. Retired
+  7. Student or pupil
+  8. Unemployed and looking for a job
+  9. Unemployed and not looking for a job
+  96. OTHER
+  98. DK
+  99. REF
+
+**HH_Income** - And lastly, what is your annual household income? Is it...
+  1. 50,000 Denarii or less
+  2. 51,000 to 75,000 Denarii
+  3. 76,000 to 100,000 Denarii
+  4. 101,000 to 150,000 Denarii
+  5. 151,000 to 200,000 Denarii
+  6. More than 200,000 Denarii
+
+(Enumerator: Thank you for completing this survey!)
 
 
   
