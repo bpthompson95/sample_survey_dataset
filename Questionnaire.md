@@ -23,8 +23,8 @@
   2. 25-34
   3. 35-44
   4. 45-54
-  6. 55-64
-  7. 65+
+  5. 55-64
+  6. 65+
 
 ## General Outlook:
 **Q1_Direction** - In general, would you say that the country is headed in the right direction or the wrong direction?
