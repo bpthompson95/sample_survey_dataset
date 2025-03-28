@@ -23,8 +23,23 @@
   2. 25-34
   3. 35-44
   4. 45-54
-  5. 55-64
-  6. 65+
+  5. 55+
+
+**Education** - What is the highest level of education that you have completed?
+  1. Primary or less
+  2. Secondary
+  3. Vocational/technical
+  4. University or higher
+
+**Marital_Status** - What is your marital status?
+  1. Single/Never married
+  2. Married
+  3. Divorced/Separated
+  4. Widowed
+  98. DK
+  99. REF
+
+
 
 ## General Outlook:
 **Q1_Direction** - In general, would you say that the country is headed in the right direction or the wrong direction?
@@ -222,20 +237,6 @@
 ## Demographics - Pt 2:
 (Enumerator: I now just have some final demographic questions for you. First...)
 
-**Education** - What is the highest level of education that you have completed?
-  1. Primary or less
-  2. Secondary
-  3. Vocational/technical
-  4. University or higher
-
-**Marital_Status** - What is your marital status?
-  1. Single/Never married
-  2. Married
-  3. Divorced/Separated
-  4. Widowed
-  98. DK
-  99. REF
-
 **Occupational_Status** - What is your occupational status?
   1. Employed in a paid job, full-time
   2. Employed in a paid job, part time
@@ -257,6 +258,8 @@
   4. 101,000 to 150,000 Denarii
   5. 151,000 to 200,000 Denarii
   6. More than 200,000 Denarii
+  98. DK
+  99. REF
 
 (Enumerator: Thank you for completing this survey!)
 
