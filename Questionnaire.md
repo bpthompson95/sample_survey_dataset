@@ -42,9 +42,11 @@
 
 
 ## General Outlook:
-**Q1_Direction** - In general, would you say that the country is headed in the right direction or the wrong direction?
-  1. Right direction
-  2. Wrong direction
+**Q1_Direction** - In general, would you say that the country is headed in the right direction or the wrong direction? And would you say it is headed strongly in the right direction, somewhat in the right direction, somewhat in the wrong direction, or strongly in the wrong direction?
+  1. Strongly in right direction
+  2. Somewhat in right direction
+  3. Somewhat in wrong direction
+  4. Strongly in wrong direction
   98. DK
   99. REF
 
