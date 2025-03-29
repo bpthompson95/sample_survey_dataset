@@ -36,11 +36,7 @@
   2. Married
   3. Divorced/Separated
   4. Widowed
-
-  98 DK
-  99 REF
-
-
+(98) DK, (99) REF
 
 ## General Outlook:
 **Q1_Direction** - In general, would you say that the country is headed in the right direction or the wrong direction? And would you say it is headed strongly in the right direction, somewhat in the right direction, somewhat in the wrong direction, or strongly in the wrong direction?
