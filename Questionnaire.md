@@ -36,6 +36,7 @@
   2. Married
   3. Divorced/Separated
   4. Widowed
+
   98 DK
   99 REF
 
