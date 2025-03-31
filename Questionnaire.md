@@ -123,14 +123,14 @@
 **Q8_Institutions** - Moving on, I would now like to ask you about some of the different government and non-government institutions in our country. For each, please tell me how much trust you have in them to do the right thing when it comes to benefitting the people of our country.
 | Q8 Institution | Trust a great deal | Somewhat trust | Somewhat distrust | Do not trust at all | DK | REF |
 | -------------- | ------------------ | -------------- | ----------------- | ------------------- | -- | --- |
-| The Army (Q8_Army) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The Army (q8_army) | 1 | 2 | 3 | 4 | 98 | 99 |
 | The Police (Q8_Police) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Universities (Q8_Universities) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Healthcare professionals (Q8_Doctors) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Your regional government (Q8_RegGovt) | 1 | 2 | 3 | 4 | 98 | 99 |
-| Your local council (Q8_Council) | 1 | 2 | 3 | 4 | 98 | 99 |
-| The Parliament (Q8_Parliament) | 1 | 2 | 3 | 4 | 98 | 99 |
-| The President (Q8_President) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Universities (q8_universities) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Healthcare professionals (q8_healthcare) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Your regional government (q8_reggovt) | 1 | 2 | 3 | 4 | 98 | 99 |
+| Your local council (q8_council) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The Parliament (q8_parliament) | 1 | 2 | 3 | 4 | 98 | 99 |
+| The President (q8_president) | 1 | 2 | 3 | 4 | 98 | 99 |
 
 **Q9_PresApproval** - Thinking now about the performance of the President, would you say that you strongly approve, somewhat approve, somewhat disapprove, or strongly disapprove of his job in office?
   1. Strongly approve
