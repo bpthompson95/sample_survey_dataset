@@ -256,7 +256,8 @@
   2. >50-75k denarii
   3. >75-100k denarii
   4. >100-150k denarii
-  5. >150k denarii
+  5. >150-200k denarii
+  6. >200k denarii
   98. DK
   99. REF
 
