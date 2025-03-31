@@ -252,12 +252,11 @@
   99. REF
 
 **HH_Income** - And lastly, what is your annual household income? Is it...
-  1. 50,000 Denarii or less
-  2. 51,000 to 75,000 Denarii
-  3. 76,000 to 100,000 Denarii
-  4. 101,000 to 150,000 Denarii
-  5. 151,000 to 200,000 Denarii
-  6. More than 200,000 Denarii
+  1. 50k denarii or less
+  2. >50-75k denarii
+  3. >75-100k denarii
+  4. >100-150k denarii
+  5. >150k denarii
   98. DK
   99. REF
 
