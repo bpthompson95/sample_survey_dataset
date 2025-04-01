@@ -159,7 +159,7 @@
 
 ## Elections
 
-**Q12_LikelyVoters** - As you may know, parliamentary elections are scheduled to take place on Wednesday, November 5th, 2025. How likely is it that you will vote in this election? Will you definitely vote, probably vote, probably not vote, or definitely not vote?
+**q12_likelihood** - As you may know, parliamentary elections are scheduled to take place on Wednesday, November 5th, 2025. How likely is it that you will vote in this election? Will you definitely vote, probably vote, probably not vote, or definitely not vote?
   1. Will definitely vote
   2. Will probably vote
   3. Will probably not vote
