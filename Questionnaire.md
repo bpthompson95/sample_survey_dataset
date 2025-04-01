@@ -155,7 +155,6 @@
 | Conserative Party (Q11_Conservative) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 | Libertarian Party (Q11_Libertarian) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 | Communist Party (Q11_Communist) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
-| Hail Cthulu Party (Q11_Cthulu) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 | Agrarian Party (Q11_Agrarian) | 1 | 2 | 3 | 4 | 97 | 98 | 99 |
 
 ## Elections
@@ -174,8 +173,7 @@
   2. Conservative Party
   3. Libertarian Party
   4. Communist Party
-  5. Hail Cthulu Party
-  6. Agrarian Party
+  5. Agrarian Party
   95. SPOILED BALLOT
   96. OTHER political party
   97. NONE/WILL NOT VOTE
@@ -188,8 +186,7 @@
   2. Conservative Party
   3. Libertarian Party
   4. Communist Party
-  5. Hail Cthulu Party
-  6. Agrarian Party
+  5. Agrarian Party
   95. SPOILED BALLOT
   96. OTHER political party
   97. NONE/WILL NOT VOTE
