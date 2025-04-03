@@ -582,6 +582,128 @@ prop.table(table(sample_dataset$q12_likelihood))
 
 
 
+# q15_roads
+sample_dataset$q15_roads <- generate_data_3factor(sample_dataset, "strata", "urbanicity", "q10_govnrapproval", c(1,2,3,4),
+                                                  c(2.0,1.0,2.0,2.5,3.0), c(2.0,3.5), c(1.0,2.0,3.0,4.0),
+                                                  c(0.8,0.5,0.8,0.8,0.8), c(0.6,0.8), c(0.8,0.8,0.8,0.8))
+
+table(sample_dataset$strata, sample_dataset$q15_roads) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_roads) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$q10_govnrapproval, sample_dataset$q15_roads) %>%
+  prop.table(margin = 1)
 
 
+# q15_transit
+sample_dataset$q15_transit <- generate_data_2factor(sample_dataset, "strata", "urbanicity", c(1,2,3,4),
+                                                    c(1.5,2.5,3.0,2.7,4.0), c(2.0,3.5),
+                                                    c(0.8,1.0,1.0,0.8,0.6), c(0.6,0.8))
 
+table(sample_dataset$strata, sample_dataset$q15_transit) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_transit) %>%
+  prop.table(margin = 1)
+
+# q15_electricity
+sample_dataset$q15_electricity <- generate_data_2factor(sample_dataset, "strata", "urbanicity", c(1,2,3,4),
+                                                        c(2.0,1.5,2.0,2.5,3.0), c(2.0,3.0),
+                                                        c(1.0,0.8,0.8,0.8,0.8), c(0.8,0.8))
+
+table(sample_dataset$strata, sample_dataset$q15_electricity) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_electricity) %>%
+  prop.table(margin = 1)
+
+# q15_water
+sample_dataset$q15_water <- generate_data_2factor(sample_dataset, "strata", "urbanicity", c(1,2,3,4),
+                                                  c(1.2,1.5,1.3,2.0,2.5), c(1.5,2.0),
+                                                  c(0.5,0.5,0.5,0.5,0.5), c(0.5,0.7))
+
+table(sample_dataset$strata, sample_dataset$q15_water) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_water) %>%
+  prop.table(margin = 1)
+
+# q15_police
+sample_dataset$q15_police <- generate_data_2factor(sample_dataset, "strata", "q8_police", c(1,2,3,4),
+                                                   c(2.5,1.5,1.3,2.0,2.5), c(1.0,2.0,3.0,4.0),
+                                                   c(1.0,0.8,0.8,1.0,1.0), c(0.5,0.5,0.5,0.5))
+
+table(sample_dataset$strata, sample_dataset$q15_police) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_police) %>%
+  prop.table(margin = 1)
+
+# q15_schools
+sample_dataset$q15_schools <- generate_data_3factor(sample_dataset, "strata", "urbanicity", "education", c(1,2,3,4),
+                                                    c(2.5,1.0,1.5,2.5,3.0), c(2.0,3.0), c(3.0,2.7,2.3,2.0),
+                                                    c(1.0,0.8,1.0,1.0,0.8), c(1.0,0.8), c(0.8,0.8,0.8,0.8))
+
+table(sample_dataset$strata, sample_dataset$q15_schools) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_schools) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$education, sample_dataset$q15_schools) %>%
+  prop.table(margin = 1)
+
+# q15_trash
+sample_dataset$q15_trash <- generate_data_3factor(sample_dataset, "strata", "urbanicity", "hh_income", c(1,2,3,4),
+                                                  c(2.5,1.5,1.5,2.5,2.8), c(2.0,3.0), c(4.0,3.5,3.0,2.0,1.5,1.0),
+                                                  c(1.0,0.8,0.8,1.0,1.0), c(1.0,0.8), c(0.5,0.8,1.0,1.0,0.5,0.5))
+
+table(sample_dataset$strata, sample_dataset$q15_trash) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_trash) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$hh_income, sample_dataset$q15_trash) %>%
+  prop.table(margin = 1)
+
+
+# q15_internet
+sample_dataset$q15_internet <- generate_data_3factor(sample_dataset, "strata", "urbanicity", "age_brackets", c(1,2,3,4),
+                                                     c(1.0,1.5,1.0,2.0,3.0), c(1.5,2.5), c(1.5,1.7,2.0,2.5,3.0),
+                                                     c(0.8,0.8,0.8,1.0,1.0), c(1.0,1.0), c(0.8,0.8,0.8,1.0,1.0))
+
+table(sample_dataset$strata, sample_dataset$q15_internet) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q15_internet) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$age_brackets, sample_dataset$q15_internet) %>%
+  prop.table(margin = 1)
+
+
+prop.table(table(sample_dataset$q15_roads))
+prop.table(table(sample_dataset$q15_transit))
+prop.table(table(sample_dataset$q15_electricity))
+prop.table(table(sample_dataset$q15_water))
+prop.table(table(sample_dataset$q15_police))
+prop.table(table(sample_dataset$q15_schools))
+prop.table(table(sample_dataset$q15_trash))
+prop.table(table(sample_dataset$q15_internet))
+
+# 16_comp
+sample_dataset$q16_comp <- generate_data_2factor(sample_dataset, "strata", "q10_govnrapproval", c(1,2,3,4),
+                                                 c(1.5,1.3,1.8,2.8,3.0), c(1.0,2.0,3.0,4.0),
+                                                 c(0.8,0.8,0.8,1.0,1.0), c(0.5,0.5,0.5,0.5))
+
+table(sample_dataset$strata, sample_dataset$q16_comp) %>%
+  prop.table(margin = 1)
+
+table(sample_dataset$urbanicity, sample_dataset$q16_comp) %>%
+  prop.table(margin = 1)
+
+
+# ... test
