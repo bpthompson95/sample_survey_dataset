@@ -705,5 +705,3 @@ table(sample_dataset$strata, sample_dataset$q16_comp) %>%
 table(sample_dataset$urbanicity, sample_dataset$q16_comp) %>%
   prop.table(margin = 1)
 
-
-# ... test
